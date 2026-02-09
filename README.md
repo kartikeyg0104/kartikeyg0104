@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Kartikey Gupta
+# Hi there, I'm Kartikey Gupta
 
-**Engineering Student | Open-source Contributor | Backend & AI Enthusiast**
+**Engineering Student | Open-source Contributor | Full Stack & AI Enthusiast**
 
 I love building intelligent systems, contributing to open-source, and working on products that combine culture, technology, and impact.  
 Currently exploring backend engineering, system design, mixed-reality, and AI-powered tools.
@@ -112,7 +112,7 @@ Currently exploring backend engineering, system design, mixed-reality, and AI-po
 ## 🤝 Connect With Me
 
 📧 kartikeyf12@gmail.com  
-🌐 LinkedIn: https://www.linkedin.com/in/kartikey-gupta-9ba2a8323/  
+🌐 LinkedIn: https://www.linkedin.com/in/kartikeyg0104
 📱 Instagram: @kartikey._.0104
 
 ---
