@@ -34,40 +34,6 @@ I am a second-year engineering student with a strong interest in full-stack deve
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=2"/>
 
-<h2>🎯 Why GSoC</h2>
-
-- Strong background in **full-stack + ML systems**  
-- Hands-on experience with **scalable architectures**  
-- Active in **open-source contributions**  
-- 🥇 3× Hackathon Winner  
-- Focus on **clean, production-ready code**  
-
-🚀 I aim to contribute meaningfully to impactful open-source projects.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=2"/>
-
-<h2>⚡ Currently Building</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=2"/>
-
-<h2>💻 Interactive Terminal</h2>
-> kartikey.init()
-
-[✓] Loading modules...
-[✓] Connecting to GitHub...
-[✓] Initializing AI systems...
-
-> kartikey.skills()
-
-["Full Stack Development", "Machine Learning", "System Design"]
-
-> kartikey.status()
-
-🚀 Actively building & contributing to open source
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=2"/>
-
 <h2>⚡ Tech Arsenal</h2>
 
 <p align="center">
@@ -140,5 +106,4 @@ I am a second-year engineering student with a strong interest in full-stack deve
 <p align="center">
 ⚡ <b>"Building scalable systems and intelligent solutions"</b>
 </p>
-```
 
