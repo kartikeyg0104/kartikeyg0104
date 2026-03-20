@@ -52,8 +52,8 @@ I am a second-year engineering student with a strong interest in full-stack deve
 ---
 
 ## 🧠 Latest Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
