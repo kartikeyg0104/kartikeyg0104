@@ -51,8 +51,7 @@ I am a second-year engineering student with a strong interest in full-stack deve
 
 ---
 
-## 🧠 AI-Powered Project Feed  
-
+## 🧠 Latest Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
