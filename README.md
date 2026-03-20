@@ -1,50 +1,107 @@
-# 👋 Hi, I'm Kartikey Gupta  
-
-🚀 Engineering Student | Open Source Contributor | Builder  
-
----
-
-## 🌟 About Me  
-- 🔭 Working on **TENeT & BharatVerse**  
-- 🧠 Exploring **AI + Systems + Open Source**  
-- 🎯 Target: **GSoC 2026**  
-- ⚡ I build fast & ship faster  
+<!-- 🔥 Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Kartikey+Gupta;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor;GSoC+2026+Aspirant" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+# 👨‍💻 Kartikey Gupta  
+
+<p align="center">
+🚀 Full-Stack Developer • AI/ML Enthusiast • Open Source Contributor  
+</p>
+
+---
+
+## 🧠 Profile Summary  
+I am a second-year engineering student with a strong interest in full-stack development, machine learning, and building scalable real-world systems. I enjoy working at the intersection of software engineering and intelligent systems and have hands-on experience developing end-to-end applications using modern technologies.
+
+---
+
+## ⚡ Tech Stack  
+
+### 🧩 Backend & Systems  
+<p>
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,postgres,mongodb,mysql" />
+</p>
+
+### 🎨 Frontend  
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,figma" />
+</p>
+
+### 🧠 AI / ML & Data  
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- FastAPI, SQLModel, Alembic  
+- TensorFlow / Keras, scikit-learn  
+- Pandas, NumPy, OpenCV  
+- D3.js (data visualization)  
+
+---
+
+## 🏗️ Experience & Work  
+
+### 🔹 Open Source Contributions  
+- Active contributor to multiple repositories with merged pull requests  
+- Worked on bug fixes, feature enhancements, and refactoring  
+- Collaborated with maintainers through code reviews and discussions  
+
+---
+
+## 🚀 Projects  
+
+### 📌 GraphQL Schema Intelligence & Query Performance Studio  
+- Built a full-stack tool to analyze GraphQL schema complexity and performance  
+- Implemented schema introspection and query cost analysis  
+- Visualized relationships using D3.js  
+
+### 📌 Open Dataset Metadata Quality Platform  
+- Built a rule-based system for evaluating dataset quality  
+- Implemented JSON Schema validation and scoring  
+- Generated explainable quality insights  
+
+---
+
+## 🏆 Achievements  
+- 🥇 3× Hackathon Winner  
+- 🏅 Multiple national-level hackathon participations  
+- ⚡ Built production-ready systems under tight deadlines  
 
 ---
 
 ## 📊 GitHub Stats  
-![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikeyg0104&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=kartikeyg0104&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikeyg0104&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyg0104&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📈 Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikeyg0104&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyg0104&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-## 🚀 Featured Projects  
-- 🔹 TENeT – Telehealth Platform  
-- 🔹 BharatVerse – Time Travel + Indian Knowledge System  
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/kartikeyg0104/kartikeyg0104/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:kartikeyf12@gmail.com)  
+## 🌐 Connect With Me  
+<p align="center">
+<a href="https://linkedin.com/in/kartikeyg0104">
+  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+<a href="mailto:kartikeyf12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+</p>
 
 ---
 
-⭐ *“Building systems that scale and ideas that matter”*  
+<p align="center">
+⚡ <b>"Building scalable systems and intelligent solutions"</b>
+</p>
