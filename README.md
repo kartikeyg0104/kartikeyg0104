@@ -51,14 +51,49 @@ I am a second-year engineering student with a strong interest in full-stack deve
 
 ---
 
-## 🧠 Latest Activity
-<!-- BLOG-POST-LIST:START -->
-- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/d88fc5f537...464e070695)
-- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/051d0f0da7...d88fc5f537)
-- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/d67ec735f6...051d0f0da7)
-- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/c699c4d92c...d67ec735f6)
-- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/acd466db16...c699c4d92c)
-<!-- BLOG-POST-LIST:END -->
+## 🚀 Featured Projects (Open Source & GSoC Focus)
+
+### 🔹 TENeT – Telehealth Effectiveness Platform  
+- ⚙️ Tech: Backend Systems, Data Integration  
+- 📌 Focus: Real-world data processing & system design  
+- 🎯 Contribution: Worked on core features & improvements  
+- 🔗 https://github.com/KathiraveluLab/TENeT  
+
+---
+
+### 🔹 Beehive – Distributed Systems / Backend  
+- ⚙️ Tech: Systems Programming, Backend Engineering  
+- 📌 Focus: Scalable architecture & distributed workflows  
+- 🔗 https://github.com/kartikeyg0104/beehive  
+
+---
+
+### 🔹 MUIgo – UI Component System  
+- 🎨 Tech: React, UI Systems  
+- 📌 Focus: Reusable component architecture  
+- 🔗 https://github.com/kartikeyg0104/muiogo  
+
+---
+
+### 🔹 Webpack – Build Tooling Ecosystem  
+- ⚡ Tech: JavaScript, Bundling, Tooling  
+- 📌 Focus: Performance optimization & build systems  
+- 🔗 https://github.com/webpack/webpack  
+
+---
+
+### 🔹 Keploy – API Testing & Dev Tooling  
+- 🧪 Tech: Backend, API Testing  
+- 📌 Focus: Developer tooling & automation  
+- 🔗 https://github.com/keploy/keploy  
+
+---
+
+### 🔹 TensorMap – ML Integration System  
+- 🧠 Tech: Machine Learning, Data Pipelines  
+- 📌 Focus: Model integration & scalable ML workflows  
+- 🎯 Context: GSoC Proposal Project  
+- 🔗 https://github.com/kartikeyg0104/tensormap  
 
 ---
 
