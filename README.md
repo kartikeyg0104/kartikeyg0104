@@ -36,9 +36,42 @@ I am a second-year engineering student with a strong interest in full-stack deve
 
 <h2>⚡ Tech Arsenal</h2>
 
+<h3>🧩 Backend & Systems</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,react,typescript,nextjs,docker,postgres,mongodb,tensorflow,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,postgres,mongodb,mysql&perline=7" />
 </p>
+
+<h3>🎨 Frontend & UI</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,figma,d3&perline=6" />
+</p>
+
+<h3>🧠 AI / ML & Data</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow&perline=1" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-DeepLearning-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-Data-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-Computing-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenCV-ComputerVision-green?style=flat-square"/>
+</p>
+
+<h3>⚙️ Tools & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,github&perline=4" />
+</p>
+
+<h3>🧠 Concepts & Specializations</h3>
+
++ System Design
++ REST APIs & GraphQL
++ JSON Schema & Schema Validation
++ AST Parsing & Schema Introspection
++ Real-time Systems (Socket.IO)
++ Database Design & ORM (Prisma, SQLModel)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=2"/>
 
