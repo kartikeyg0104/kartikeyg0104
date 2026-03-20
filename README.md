@@ -53,6 +53,11 @@ I am a second-year engineering student with a strong interest in full-stack deve
 
 ## 🧠 Latest Activity
 <!-- BLOG-POST-LIST:START -->
+- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/d88fc5f537...464e070695)
+- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/051d0f0da7...d88fc5f537)
+- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/d67ec735f6...051d0f0da7)
+- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/c699c4d92c...d67ec735f6)
+- [kartikeyg0104 pushed kartikeyg0104](https://github.com/kartikeyg0104/kartikeyg0104/compare/acd466db16...c699c4d92c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
