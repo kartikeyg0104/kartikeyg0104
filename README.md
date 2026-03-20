@@ -94,6 +94,8 @@ I am a second-year engineering student with a strong interest in full-stack deve
 <h2>📈 Activity Graph</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyg0104&theme=tokyo-night&hide_border=true"/>
 <h2>🐍 Contribution Snake</h2>
+
+![snake gif](https://github.com/kartikeyg0104/kartikeyg0104/blob/output/github-contribution-grid-snake.svg)
 <h2>🌐 Connect With Me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/kartikeyg0104">
