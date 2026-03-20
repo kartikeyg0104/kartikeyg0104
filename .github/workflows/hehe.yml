@@ -15,6 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: jamesives/github-activity-readme@master
+      - name: Update README with recent activity
+        uses: Readme-Workflows/recent-activity@v2
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
