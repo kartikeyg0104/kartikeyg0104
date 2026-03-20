@@ -51,17 +51,10 @@ I am a second-year engineering student with a strong interest in full-stack deve
 
 ---
 
-## 🚀 Projects  
+## 🧠 AI-Powered Project Feed  
 
-### 📌 GraphQL Schema Intelligence & Query Performance Studio  
-- Built a full-stack tool to analyze GraphQL schema complexity and performance  
-- Implemented schema introspection and query cost analysis  
-- Visualized relationships using D3.js  
-
-### 📌 Open Dataset Metadata Quality Platform  
-- Built a rule-based system for evaluating dataset quality  
-- Implemented JSON Schema validation and scoring  
-- Generated explainable quality insights  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
